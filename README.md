@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tentacion-perdida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tentación perdida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-perdida/) |
+| **Get License** | [License this song: Tentación perdida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-perdida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche pide que apaguemos el celular
+> Bajo la luna de Madrid, te quiero devorar
+> Con ese flow de calle que me tiene sin pensar
+> Tú y yo en la disco, mami, listos pa' volar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

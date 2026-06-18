@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tentacion-perdida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tentación perdida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-perdida/) |
+| **Get License** | [Get a Licensing Quote for Tentación perdida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-perdida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `77c1a45f0a8efefc3dc153f658a88efa0f66759fdf0ee1e09604c1dab2d09464` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

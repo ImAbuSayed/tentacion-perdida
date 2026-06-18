@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tentación perdida
+
+This log tracks the cryptographic history and versioning for the song **Tentación perdida** (tentacion-perdida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:45:29.262660 | `v1` | `77c1a45f0a8efefc3dc153f658a88efa0f66759fdf0ee1e09604c1dab2d09464` | `1e9bd1d1e329dc7934ba380bf86ee9a34b94eb4a3abc862d35c553ad3e83c1d6` | `2026-06-18_tentacion-perdida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
